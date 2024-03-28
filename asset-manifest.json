@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/orodje/static/css/main.ebab6dee.css",
-    "main.js": "/orodje/static/js/main.60507929.js",
+    "main.js": "/orodje/static/js/main.295d34cc.js",
     "static/media/hernalytics.png": "/orodje/static/media/hernalytics.4288886b2f6a178238d7.png",
     "static/media/acmen.png": "/orodje/static/media/acmen.dc582b1ab0ce23ea2417.png",
     "static/media/Timob-health.png": "/orodje/static/media/Timob-health.2b2b95af413ea12ecfc7.png",
@@ -18,10 +18,10 @@
     "static/media/glasses.png": "/orodje/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
     "index.html": "/orodje/index.html",
     "main.ebab6dee.css.map": "/orodje/static/css/main.ebab6dee.css.map",
-    "main.60507929.js.map": "/orodje/static/js/main.60507929.js.map"
+    "main.295d34cc.js.map": "/orodje/static/js/main.295d34cc.js.map"
   },
   "entrypoints": [
     "static/css/main.ebab6dee.css",
-    "static/js/main.60507929.js"
+    "static/js/main.295d34cc.js"
   ]
 }
