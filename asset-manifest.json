@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/orodje/static/css/main.ebab6dee.css",
+    "main.js": "/orodje/static/js/main.60507929.js",
+    "static/media/hernalytics.png": "/orodje/static/media/hernalytics.4288886b2f6a178238d7.png",
+    "static/media/acmen.png": "/orodje/static/media/acmen.dc582b1ab0ce23ea2417.png",
+    "static/media/Timob-health.png": "/orodje/static/media/Timob-health.2b2b95af413ea12ecfc7.png",
+    "static/media/resume.pdf": "/orodje/static/media/resume.3b4d56ff472372ebedab.pdf",
+    "static/media/hhf.png": "/orodje/static/media/hhf.03ff816284578c0d08f0.png",
+    "static/media/boy.png": "/orodje/static/media/boy.5ca4b670a32b71681d2c.png",
+    "static/media/glassesimoji.png": "/orodje/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/thumbup.png": "/orodje/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/orodje/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/orodje/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/orodje/static/media/wave.a0ccc4dafca8b979613d.png",
+    "static/media/crown.png": "/orodje/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/orodje/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/orodje/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/orodje/index.html",
+    "main.ebab6dee.css.map": "/orodje/static/css/main.ebab6dee.css.map",
+    "main.60507929.js.map": "/orodje/static/js/main.60507929.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebab6dee.css",
+    "static/js/main.60507929.js"
+  ]
+}
